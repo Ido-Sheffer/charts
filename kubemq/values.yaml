@@ -1,5 +1,5 @@
 nameOverride: "kubemq-cluster"
-token: ""
+tokenOverride: ""
 replicaCount: 3
 cluster:
   enable: 'true'
